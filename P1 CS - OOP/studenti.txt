@@ -1,0 +1,12 @@
+3,vasile
+5,alin
+15,xavier
+1,Ion
+2,catalin
+69,Cosmin
+33,tolontan
+55,codrin
+14,xena
+12,ibrahim
+23,carlos
+67,ceavi
